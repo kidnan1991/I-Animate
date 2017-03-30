@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">I-Animate</string>
+    <string name="hint_text">Sample hint text</string>
+</resources>
